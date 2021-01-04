@@ -1,0 +1,7 @@
+@startuml
+partition "Case 2" {
+:WarehouseOpenedEvent;
+:ProductTakenEvent;
+:ProductArrivedInWarehouseEvent;
+}
+@enduml
